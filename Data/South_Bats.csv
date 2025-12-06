@@ -1,0 +1,16 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude,Longitude,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode
+S2CR_A,S2CR_A1,Audiomoth,10/09/2025,Animalia,Chiroptera,Nyctalus_leisleri,Lesser_noctule,Species,N/A,N/A,N/A,Present,N55 41.945,W005 17.102,N/A,N/A,N/A,WGS84,GB
+S2CR_A,S2CR_A2,Audiomoth,10/09/2025,Animalia,Chiroptera,Pipistrellus_nathusii,Nathusius'_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.945,W005 17.102,N/A,N/A,N/A,WGS84,GB
+S2CR_A,S2CR_A3,Audiomoth,10/09/2025,Animalia,Chiroptera,Pipistrellus_pipistrellus,Common_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.945,W005 17.102,N/A,N/A,N/A,WGS84,GB
+S2CR_B,S2CR_B1,Audiomoth,10/09/2025,Animalia,Chiroptera,Pipistrellus_nathusii,Nathusius'_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.791,W005 17.028,N/A,N/A,N/A,WGS84,GB
+S2CR_B,S2CR_B2,Audiomoth,10/09/2025,Animalia,Chiroptera,Pipistrellus_pipistrellus,Common_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.791,W005 17.028,N/A,N/A,N/A,WGS84,GB
+S2CR_B,S2CR_B3,Audiomoth,10/09/2025,Animalia,Chiroptera,Pipistrellus_pygmaeus,Soprano_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.791,W005 17.028,N/A,N/A,N/A,WGS84,GB
+S2CR_B,S2CR_B4,Audiomoth,10/09/2025,Animalia,Chiroptera,Plecotus_auritus,Brown_long-eared_bat,Species,N/A,N/A,N/A,Present,N55 41.791,W005 17.028,N/A,N/A,N/A,WGS84,GB
+S3CR_A,S3CR_A1,Audiomoth,09/09/2025,Animalia,Chiroptera,Pipistrellus_nathusii,Nathusius'_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.9613,W005 170867,N/A,N/A,N/A,WGS84,GB
+S3CR_A,S3CR_A2,Audiomoth,09/09/2025,Animalia,Chiroptera,Pipistrellus_pipistrellus,Common_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.9613,W005 170867,N/A,N/A,N/A,WGS84,GB
+S3CR_A,S3CR_A3,Audiomoth,09/09/2025,Animalia,Chiroptera,Pipistrellus_pygmaeus,Soprano_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.9613,W005 170867,N/A,N/A,N/A,WGS84,GB
+S3CR_B,S3CR_B1,Audiomoth,10/09/2025,Animalia,Chiroptera,Nyctalus_leisleri,Lesser_noctule,Species,N/A,N/A,N/A,Present,N55 41.9613,W005 170867,N/A,N/A,N/A,WGS84,GB
+S3CR_B,S3CR_B2,Audiomoth,10/09/2025,Animalia,Chiroptera,Pipistrellus_pipistrellus,Common_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.9613,W005 170867,N/A,N/A,N/A,WGS84,GB
+S3CR_B,S3CR_B3,Audiomoth,10/09/2025,Animalia,Chiroptera,Pipistrellus_pygmaeus,Soprano_pipistrelle,Species,N/A,N/A,N/A,Present,N55 41.9613,W005 170867,N/A,N/A,N/A,WGS84,GB
+S3CR_C,S3CR_C1,Audiomoth,09/09/2025,Animalia,Chiroptera,Pipistrellus_nathusii,Nathusius' pipistrelle,Species,2,N/A,N/A,Present,,,N/A,N/A,N/A,WGS84,GB
+S3CR_C,S3CR_C2,Audiomoth,09/09/2025,Animalia,Chiroptera,Pipistrellus_pipistrellus,Common pipistrelle,Species,262,N/A,N/A,Present,,,N/A,N/A,N/A,WGS84,GB

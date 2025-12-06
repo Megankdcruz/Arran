@@ -1,0 +1,8 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,organismQuantity,organismQuantityType,occurrenceStatus,Latitude N,Longitude W,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode,Comments
+N1MR,N1MR_1,Humanobservation,09/09/2025,Animalia,Artiodactyla,Cervus elaphus,Red dear,1,Individual,Present,N 055°70.738,W 005°27.611,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+N1MR,N1MR_2,Humanobservation,09/09/2025,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,1,Individual,Present,N 055°70.426,W 005°27.224,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+N2MR,N2MR_2,Humanobservation,10/09/2025,Animalia,Artiodactyla,Cervus elaphus,Red dear,1,Individual,Present,N 055°70.534,W 005°26.875,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+N2MR,N2MR_3,Humanobservation,10/09/2025,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,1,Individual,Present,N 055°70.583,W 005°26.983,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+N2MR,N2MR_4,Humanobservation,11/09/2025,Animalia,Carnivora,Meles meles,Badger,1,Individual,Present,N 055°70.731,W 005°27.867,N/A,,,WGS84,SCO,
+N3MR,N3MR_2,Humanobservation,12/09/2025,Animalia,Rodentia,Sciurus vulgaris,Red Squirrel,2,Individual,Present,N 055°70.328,W 005°27.880,N/A,,,WGS84,SCO,
+N3MR,N3MR_3,Humanobservation,12/09/2025,Animalia,Artiodactyla,Cervus elaphus,Red dear,1,Individual,Present,N 055°70.528,W 005°28.117,N/A,,,WGS84,SCO,"Many ind, faeces as well"

@@ -1,0 +1,12 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude,Longitude,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode
+S2B,S2B_1,Humanobservation,11/09/2025,Animalia,Vertebrata,Falco tinnunculus,Common kestrel,Species,1,1,Individual,Present,N55 42.0486,W5 17.3166,,N55 41.75,W5 17. 0135833,TRF (OS),SCO
+S3B,S3B_1,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,5,5,Flock,Present,N55 42.005,W5 17.1,,N55 41.75,W5 16.887,TRF (OS),SCO
+S3B,S3B_2,Humanobservation,12/09/2025,Animalia,Vertebrata,Anthus pratensis,Meadow pipit,Species,6,6,Flock,Present,N55 42.005,W5 17.1,,N55 41.75,W5 16.887,TRF (OS),SCO
+S3B,S3B_3,Humanobservation,12/09/2025,Animalia,Vertebrata,Corvus corax,Common raven,Species,2,2,Flock,Present,N55 42.005,W5 17.1,,N55 41.75,W5 16.887,TRF (OS),SCO
+S3B,S3B_4,Humanobservation,12/09/2025,Animalia,Vertebrata,Turdus philomelos,Song thrush,Species,1,1,Individual,Present,N55 42.005,W5 17.1,,N55 41.75,W5 16.887,TRF (OS),SCO
+S1B,S1B_1,Humanobservation,10/09/2025,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,1,1,Individual,Present,N55 41.88,W5 17.25,,N55 41.6598,W5 16.977,TRF (OS),SCO
+S1B,S1B_2,Humanobservation,10/09/2025,Animalia,Vertebrata,Corvus corax,Common raven,Species,2,2,Flock,Present,N55 41.88,W5 17.25,,N55 41.6598,W5 16.977,TRF (OS),SCO
+S1B,S1B_3,Humanobservation,10/09/2025,Animalia,Vertebrata,Anthus pratensis,Meadow pipit,Species,2,2,Flock,Present,N55 41.88,W5 17.25,,N55 41.6598,W5 16.977,TRF (OS),SCO
+S1B,S1B_4,Humanobservation,10/09/2025,Animalia,Vertebrata,Certhia familiaris,Treecreeper,Species,1,1,Individual,Present,N55 41.88,W5 17.25,,N55 41.6598,W5 16.977,TRF (OS),SCO
+S1B,S1B_5,Humanobservation,10/09/2025,Animalia,Vertebrata,Troglodytes troglodytes,Eurasion wren,Species,2,2,Flock,Present,N55 41.88,W5 17.25,,N55 41.6598,W5 16.977,TRF (OS),SCO
+S1B,S1B_6,Humanobservation,10/09/2025,Animalia,Vertebrata,Aegithalos caudatus,Long tailed tit,Species,1,1,Individual,Present,N55 41.88,W5 17.25,,N55 41.6598,W5 16.977,TRF (OS),SCO

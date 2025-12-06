@@ -1,0 +1,6 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,organismQuantity,organismQuantityType,occurrenceStatus,Latitude N,Longitude W,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode,Comments
+S3MR,S3MR_1,CameraTrap,11/09/2025,Animalia,Rodentia,Sciurus vulgaris,Red Squirrel,1,Individual,Present,N 055°69.919,W 005°28.530,N/A,,,WGS84,SCO,
+S1MR,S1MR_1,Humanobservation,11/09/2025,Animalia,Artiodactyla,Cervus elaphus,Red dear,1,Faeces,Present,N 055°69.590,W 005°28.581,N/A,,,WGS84,SCO,Just faeces
+S2MR,S2MR_1,Humanobservation,10/09/2025,Animalia,Artiodactyla,Cervus elaphus,Red dear,1,Individual,Present,N 055°69.755,W 005°28.505,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+S3MR,S3MR_3,Humanobservation,12/09/2025,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,1,Individual,Present,N 055°69.893,W 005°28468,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+S3MR,S3MR_3,Humanobservation,12/09/2025,Animalia,Artiodactyla,Cervus elaphus,Red dear,1,Individual,Present,N 055°69.718,W 005°28258,N/A,,,WGS84,SCO,"Many ind, faeces as well"

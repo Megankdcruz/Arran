@@ -1,0 +1,10 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude,Longitude,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode
+N1TIN_F,N1TIN_F1,Human_observation ,11/09/2025,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 42.295,W005 16.471,,,,WGS84,GB
+N2TIN_D,N2TIN_D1,Human_observation ,11/09/2025,Animalia,Hemiptera,Hemiptera,True_bug,Order,5,5,Individual,Present,N55 42.219,W005 16.534,,,,WGS84,GB
+N2TIN_D,N2TIN_D2,Human_observation ,11/09/2025,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 42.219,W005 16.534,,,,WGS84,GB
+N2TIN_F,N2TIN_F1,Human_observation ,11/09/2025,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_F,N2TIN_F2,Human_observation ,11/09/2025,Animalia,Hemiptera,Aphididae,Aphid,Family,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_F,N2TIN_F3,Human_observation ,11/09/2025,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_G,N2TIN_G1,Human_observation ,11/09/2025,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 42.185,W005 16.468,,,,WGS84,GB
+N2TIN_I,N2TIN_I1,Human_observation ,11/09/2025,Animalia,Ixodida,Ixodoidea,Tick,Family,6,6,Individual,Present,N55 42.161,W005 16.431,,,,WGS84,GB
+N2TIP_J,N2TIP_J1,Human_observation ,10/09/2025,Animalia,Coleoptera,Calathus fuscipes,Ground Beetle,Family,7,7,Individual,Present,N55 42.143,W005 16.419,,,,WGS84,GB

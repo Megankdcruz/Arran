@@ -1,0 +1,10 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude,Longitude,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode
+N3B_OoB,N3B_OoB_1,Humanobservation,12/09/2025,Animalia,Vertebrata,Coloeus monedula,Western jackdaw,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,,
+S2B_OoB,S2B_OoB_1,Humanobservation,11/09/2025,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,1,1,Individual,Present,N55 42.0486,W5 17.3166,,N55 41.75,W5 17. 0135833,,
+S2B_OoB,S2B_OoB_2,HumanobservationCall,11/09/2025,Animalia,Vertebrata,Troglodytes troglodytes,Eurasion wren,Species,1,1,Individual,Present,N55 42.0486,W5 17.3166,,N55 41.75,W5 17. 0135833,,
+S2B_OoB,S2B_OoB_3,HumanobservationCall,11/09/2025,Animalia,Vertebrata,Troglodytes troglodytes,Eurasion wren,Species,2,2,Flock,Present,N55 42.0486,W5 17.3166,,N55 41.75,W5 17. 0135833,,
+S2B_OoB,S2B_OoB_3,HumanobservationCall,11/09/2025,Animalia,Vertebrata,Erithacus rubecula,European robin,Species,1,1,Individual,Present,N55 42.0486,W5 17.3166,,N55 41.75,W5 17. 0135833,,
+N1B_OoB,N1B_OoB_1,Humanobservation,10/09/2025,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,2,2,Flock,Present,,,,,,,
+N1B_OoB,N1B_OoB_2,Humanobservation,10/09/2025,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,1,1,Individual,Present,,,,,,,
+SIB_OoB,S1B_OoB_1,HumanobservationCall,10/09/2025,,,,Nest,,3,3,,,N55 41.8902,W5 17.1354,,N55 41.6898,W5 16.9289833,,
+SIB_OoB,S1B_OoB_2,HumanobservationCall,10/09/2025,Animalia,Vertebrata,Anthus pratensis,Meadow pipit,Species,1,1,Individual,Present,N55 41.8902,W5 17.1354,,N55 41.6898,W5 16.9289833,,

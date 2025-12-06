@@ -1,0 +1,44 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude,Longitude,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode
+N1B,N1B_1,Humanobservation,10/09/2025,Animalia,Vertebrata,Anthus pratensis,Meadow pipit,Species,6,6,Individual,Present,,,,,,WGS84,SCO
+N3B,N3B_1,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,3,3,Flock,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_2,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,4,4,Flock,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_3,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,2,2,Flock,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_4,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_5,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_6,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_7,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_8,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_,Humanobservation,12/09/2025,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,2,2,Flock,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_,Humanobservation,12/09/2025,Animalia,Vertebrata,Motacilla alba,Pied wagtail,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_,Humanobservation,12/09/2025,Animalia,Vertebrata,Erithacus rubecula,European robin,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_,Humanobservation,12/09/2025,Animalia,Vertebrata,Cyanistes caeruleus,Blue tit,Species,1,1,Individual,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_,Humanobservation,12/09/2025,Animalia,Vertebrata,Coloeus monedula,Western jackdaw,Species,15,15,Flock,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_,Humanobservation,12/09/2025,Animalia,Vertebrata,Turdus spp,Unidentified thrush,Genus,1,1,Flock,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N3B,N3B_,Humanobservation,12/09/2025,Animalia,Vertebrata,Periparus ater,Coal tit,Species,1,1,Flock,Present,N55 42.366,W5 17.008,,N55 42.01612,W5 15.98,TRF (OS),SCO
+N2B,N2B_1,Humanobservation,11/09/2025,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,1,1,Individual,Present,N55 42.5,W5 16.938,,N55 42.2133,W5 16.056966,TRF (OS),SCO
+N2B,N2B_2,Humanobservation,11/09/2025,Animalia,Vertebrata,Corvus corone,Carrion crow,Species,2,2,Flock,Present,N55 42.5,W5 16.938,,N55 42.2133,W5 16.056966,TRF (OS),SCO
+N2B,N2B_3,Humanobservation,11/09/2025,Animalia,Vertebrata,Turdus philomelos,Song thrush,Species,3,3,Flock,Present,N55 42.5,W5 16.938,,N55 42.2133,W5 16.056966,TRF (OS),SCO
+N2B,N2B_5,Humanobservation,11/09/2025,Animalia,Vertebrata,Alauda arvensis,Skylark,Species,2,2,Flock,Present,N55 42.5,W5 16.938,,N55 42.2133,W5 16.056966,TRF (OS),SCO
+NB_I,NB_I_1,Humanobservation,11/09/2025,Animalia,Vertebrata,Alauda arvensis,Skylark,Species,1,1,Individual,Present,,,,,,TRF (OS),SCO
+NB_I,NB_I_2,Humanobservation,11/09/2025,Animalia,Vertebrata,Falco tinnunculus,Common kestrel,Species,1,1,Individual,Present,,,,,,TRF (OS),SCO
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
