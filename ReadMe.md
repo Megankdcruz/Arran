@@ -1,1 +1,3 @@
 This project will contain my graphs and figures made based on the Arran data.
+This ecological impact assessment was conducted in the village of Lochranza on the Isle of Arran. The project aimed to advise between two sites for the implementation of a carbon offset project. A standard baseline ecological survey, phase 1 survey and desk-based survey were carried out to inform this decision. The results showed mixed diversity for both sites and indicated two different carbon offset projects for each site. Recommendations given at the end of the report advised the implementation of an Afforestation project on one of the sites after analysing the results of the surveys.
+
